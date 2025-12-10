@@ -8,9 +8,8 @@ Python Internship – Project 1
 String Reversal using Python
 
 🚀 Project Overview
-
  This project demonstrates a simple Python program that takes a user-input string and returns its reverse.
-It helps build foundational understanding of Python functions, string manipulation, and slicing techniques.
+ It helps build foundational understanding of Python functions, string manipulation, and slicing techniques.
 
 📝 Problem Statement
 Can we design a Python function that accepts a string and returns the reversed version of that string?
@@ -30,11 +29,10 @@ Input: "Cognifyz"
 Output: "zyfnigoC"
 
 ⚙️ Requirements
-Python 3.x
-Any code editor (VS Code, PyCharm, IDLE, etc.)
+1) Python 3.x
+2) Any code editor (VS Code, PyCharm, IDLE, etc.)
 
 🧠 Implementation Steps
-
 1) Take a string input from the user
 2) Define a function reverse_string()
 3) Reverse the string using slicing: text[::-1]
